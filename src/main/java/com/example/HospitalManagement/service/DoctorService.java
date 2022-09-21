@@ -11,7 +11,7 @@ import com.example.HospitalManagement.user.Doctor;
 import com.example.HospitalManagement.repository.DoctorRepository;
 
 @Service
-public class DoctorService {
+public class DoctorService  {
 
 	@Autowired
 	public DoctorRepository doctorRepo;
